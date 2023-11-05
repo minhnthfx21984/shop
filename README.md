@@ -18,7 +18,7 @@ using node v18</br>
 -> cd server</br>
 -> npm i</br>
 -> npm start</br>
--> server run at localhost:8000</br>
+-> server run at localhost:8000</br></br>
 
 CLIENT:</br>
 using node v16</br>
