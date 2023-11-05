@@ -9,6 +9,8 @@ User Authentication: Protects information and transactions through user authenti
 
 <h3><a href="https://client-nodejs-asm3.web.app/">Client demo link:</a></h3>
 <h3><a href="https://admin-nodejs-asm3.web.app/">Admin demo link:</a></h3>
+<p>Render's free package will automatically close the server after 5 minutes, so please contact me before trying it at gmail: minhnthfx21984@funix.edu.vn</p>
+
 
 <h3>Deployment guide:</h3>
 SERVER:</br>
